@@ -1,0 +1,10 @@
+E:\Projects\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.exe.config
+E:\Projects\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.exe
+E:\Projects\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.pdb
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.csprojAssemblyReference.cache
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.Form1.resources
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.Properties.Resources.resources
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.csproj.GenerateResource.cache
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.csproj.CoreCompileInputs.cache
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.exe
+E:\Projects\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.pdb
